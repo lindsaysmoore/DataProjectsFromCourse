@@ -1,5 +1,11 @@
 # DataProjectsFromCourses
-I did a few courses at Udemy that include Data Engineering, Machine Learning models from scikitlearn and building some neural networks with Tensorflow. Here I include the projects as i did them in the course, without any extra work. My main goal in doing these courses was to learn python for machine learning and to learn tensorflow, which has some very complicated setup. 
+I took 3 courses at Udemy over the last 4 years -  
+
+https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python  
+https://www.udemy.com/the-complete-sql-bootcamp  
+https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp  
+
+The course materials include data engineering, a variety of machine learning models from scikitlearn with corresponding theory from the book __An introduction to statistical learning__ by James, Witten, Hastie and Tibishrani http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf and building some neural networks with Tensorflow. Here I include two projects as i did them in the course. Overall I did about 10 projects per course, but I didn't feel like there was any value in including so many files. I am just trying to show some examples of the course level and the kind of code I write in Jupyter Notebook. My main goal in doing these courses was to learn python for machine learning and to learn tensorflow, which has some very complicated setup. 
 
 ## Requirements:
 I use Anaconda with Python 3 and the following packages:  
